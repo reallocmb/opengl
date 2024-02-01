@@ -1,0 +1,36 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-std=gnu99",
+      "-g",
+      "-Iinc",
+      "-c",
+      "-o",
+      "obj/glad.o",
+      "src/glad.c"
+    ],
+    "directory": "/home/mb/ws/c/opengl",
+    "file": "/home/mb/ws/c/opengl/src/glad.c",
+    "output": "/home/mb/ws/c/opengl/obj/glad.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-Wall",
+      "-Wextra",
+      "-std=gnu99",
+      "-g",
+      "-Iinc",
+      "-c",
+      "-o",
+      "obj/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/mb/ws/c/opengl",
+    "file": "/home/mb/ws/c/opengl/src/main.c",
+    "output": "/home/mb/ws/c/opengl/obj/main.o"
+  }
+]
