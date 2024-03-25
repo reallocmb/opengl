@@ -1,6 +1,6 @@
 program = opengl
 
-extern_lib = -lglfw
+extern_lib = -lglfw -lm
 
 compiler = gcc $(develop_flags)
 
